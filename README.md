@@ -1,2 +1,2 @@
-# CabSupport Releases
-Repository for storing Transpoworks CabSupport tablet app releases
+# CabSupport-Samara Releases
+Repository for storing Transpoworks CabSupport-Samara tablet app releases
